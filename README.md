@@ -45,7 +45,7 @@ C# Y SQL SERVER
 - **Curso / Sección:**  5D2
 - **Año Escolar:**  2026
 
-## ✍️ Autor
+##  Autor
 Nureidy Eusebio Flores
 
 
